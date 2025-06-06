@@ -33,6 +33,20 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.25/kotlin-stdlib-jdk8-1.9.25.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.25/kotlin-stdlib-1.9.25.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.25/kotlin-stdlib-jdk7-1.9.25.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/0.36.2/langchain4j-0.36.2.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/1.0.0/langchain4j-1.0.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-core/1.0.0/langchain4j-core-1.0.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jspecify/jspecify/1.0.0/jspecify-1.0.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.19.0/jackson-annotations-2.19.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.19.0/jackson-core-2.19.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.19.0/jackson-databind-2.19.0.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/opennlp/opennlp-tools/2.5.4/opennlp-tools-2.5.4.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/1.0.1/langchain4j-1.0.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-core/1.0.1/langchain4j-core-1.0.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-ollama/1.0.1-beta6/langchain4j-ollama-1.0.1-beta6.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-http-client/1.0.1/langchain4j-http-client-1.0.1.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-http-client-jdk/1.0.1/langchain4j-http-client-jdk-1.0.1.jar" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
@@ -68,6 +82,20 @@
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.9.25/kotlin-stdlib-jdk8-1.9.25-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib/1.9.25/kotlin-stdlib-1.9.25-sources.jar" />
       <root url="file://$MAVEN_REPOSITORY$/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.9.25/kotlin-stdlib-jdk7-1.9.25-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/0.36.2/langchain4j-0.36.2-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/1.0.0/langchain4j-1.0.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-core/1.0.0/langchain4j-core-1.0.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/jspecify/jspecify/1.0.0/jspecify-1.0.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-annotations/2.19.0/jackson-annotations-2.19.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-core/2.19.0/jackson-core-2.19.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.19.0/jackson-databind-2.19.0-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/apache/opennlp/opennlp-tools/2.5.4/opennlp-tools-2.5.4-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.17/slf4j-api-2.0.17-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j/1.0.1/langchain4j-1.0.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-core/1.0.1/langchain4j-core-1.0.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-ollama/1.0.1-beta6/langchain4j-ollama-1.0.1-beta6-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-http-client/1.0.1/langchain4j-http-client-1.0.1-sources.jar" />
+      <root url="file://$MAVEN_REPOSITORY$/dev/langchain4j/langchain4j-http-client-jdk/1.0.1/langchain4j-http-client-jdk-1.0.1-sources.jar" />
     </SOURCES>
   </library>
 </component>
